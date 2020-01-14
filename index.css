@@ -1,0 +1,13 @@
+body { background-color: #EAAFE0; }
+
+h1 , p {
+	font-family"Arial", "Helvetica", "Sans-serif"
+	text-indent: 10px;
+}
+
+img:hover {
+	width: 60px;
+}
+img:hover {
+	height: 60px;
+}
